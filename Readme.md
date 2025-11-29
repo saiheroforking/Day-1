@@ -17,25 +17,21 @@ https://saiheroforking.github.io/Day-1/
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 Day-1/
-│
-├── index.html # Main UI Structure
-│
-├── style/
-│ └── main.css # Styling (Glass effect, responsive grid)
-│
-├── Scripts/
-│ └── app.js # Form validation & media metadata scripts
-│
-├── audio/
-│ └── long-journey-short-version-174350.mp3
-│
-├── videos/
-│ └── video.mp4
-│
-└── Screenshot 2025-11-29 213718.png # Project preview image
+├── 📄 index.html
+├── 📁 style/
+│   └── 🎨 main.css
+├── 📁 Scripts/
+│   └── 🧠 app.js
+├── 🎵 audio/
+│   └── long-journey-short-version-174350.mp3
+├── 🎬 videos/
+│   └── video.mp4
+└── 🖼️ Screenshot 2025-11-29 213718.png
+```
 
 
 ---
@@ -147,4 +143,5 @@ This project is intended for educational and personal use.
 Feel free to modify and use parts of this project.
 
 ---
+
 
